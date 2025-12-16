@@ -1,4 +1,3 @@
--- Attendre 3 secondes avant de commencer
 task.wait(3)
 
 if _G.NexHubBypassed then warn("ta deja executé trdc")return end
